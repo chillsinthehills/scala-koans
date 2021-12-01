@@ -32,7 +32,7 @@ package harkonnen {
       //melange should be(1) //not accessible
       //oregano should be (2) //not accessible
       //tarragon should be (3) //not accessible
-      rosemary should be(__)
+      rosemary should be(4)
     }
 
     koan("With private keywords: Only private[packagename] members can be accessed via parameter") {
