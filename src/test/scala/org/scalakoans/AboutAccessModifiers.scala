@@ -25,6 +25,7 @@ package harkonnen {
   }
 
 
+
   class BetaBase extends AlphaBase with KoanSuite {
     val param: AlphaBase = new AlphaBase
 
