@@ -24,8 +24,6 @@ package harkonnen {
     protected[harkonnen] val thyme = 13
   }
 
-
-
   class BetaBase extends AlphaBase with KoanSuite {
     val param: AlphaBase = new AlphaBase
 
