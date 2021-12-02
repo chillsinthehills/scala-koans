@@ -194,5 +194,4 @@ package atreides {
 }
 
 class AboutAccessModifiers extends KoanSuite {
-
 }
