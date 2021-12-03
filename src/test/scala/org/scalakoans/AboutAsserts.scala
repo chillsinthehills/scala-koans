@@ -19,8 +19,8 @@ class AboutAsserts extends KoanSuite {
   }
 
   koan("booleans in asserts can test equality") {
-    val v1 = 4
-    val v2 = 4
+    val v1 = 5
+    val v2 = 5
     assert(v1 === v2)
   }
 
